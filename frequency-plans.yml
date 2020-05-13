@@ -11,6 +11,12 @@
   base-id: EU_863_870
   file: EU_863_870_TTN.yml
 
+- id: EU_433
+  name: Europe 433 MHz (Worldwide)
+  description: Default frequency plan for worldwide 433MHz
+  base-frequency: 433
+  file: EU_433.yml
+
 - id: US_902_928_FSB_1
   name: United States 902-928 MHz, FSB 1
   description: Default frequency plan for the United States and Canada, using sub-band 1
